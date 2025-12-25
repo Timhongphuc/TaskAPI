@@ -43,3 +43,12 @@ $ curl -X POST "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d '
 # How to do a DELETE Call
 $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d '{"taskname": "YOURTASK"}'
 ```
+
+## Hosting on the Web + UI will come soon (Hopefully)
+
+## Project information
+
+- Duration of the Project (Beginnging - End): 20. December 2025 - 25. October 2025
+- Sticky notes used: ≈ 0
+- Hours I spend building this Project: ≈ 4h
+
