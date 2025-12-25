@@ -44,7 +44,7 @@ $ curl -X POST "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d '
 $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d '{"taskname": "YOURTASK"}'
 ```
 
-## Hosting on the Web + UI will come soon (Hopefully)
+## Hosting + responsive UI will come soon (Hopefully)
 
 ## Project information
 
