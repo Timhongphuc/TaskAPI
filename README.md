@@ -56,5 +56,5 @@ $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d
 
 - Duration of the Project (Beginnging - End): 20. December 2025 - 25. October 2025
 - Sticky notes used: ≈ 0
-- Hours I spend building this Project: ≈ 4h
+- Hours I spend building this Project: ≈ 6h
 
