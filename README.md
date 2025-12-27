@@ -46,6 +46,12 @@ $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d
 
 ## Hosting + responsive UI will come soon (Under development)
 
+## Tech Stack
+
+- API: [FastAPI](https://fastapi.tiangolo.com/)
+- Hosting: [Render](https://render.com/)
+- GUI created with [CustomTkinter](https://customtkinter.tomschimansky.com/)
+
 ## Project information
 
 - Duration of the Project (Beginnging - End): 20. December 2025 - 25. October 2025
