@@ -5,7 +5,7 @@ A Simple API I made using FastAPI in Python. (My first FastAPI project)
 
 ## Instructions
 
-### Installation + Setup
+### Installation + Setup (Locally)
 
 ```bash
 # Installation
