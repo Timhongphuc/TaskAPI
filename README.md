@@ -49,7 +49,7 @@ $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d
 ## Tech Stack
 
 - API: [FastAPI](https://fastapi.tiangolo.com/)
-- Hosting: [Render](https://render.com/)
+- Hosting: [Render](https://render.com/) (Because this project is currently running on the Render Free Tier, there will be an estimated startup time of 50 seconds.)
 - GUI created with [CustomTkinter](https://customtkinter.tomschimansky.com/)
 
 ## Project information
