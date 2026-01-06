@@ -52,6 +52,8 @@ $ curl -X DELETE "http://128.0.0.1:8000/" -H "Content-Type: application/json" -d
 - Hosting: [Render](https://render.com/) (Because this project is currently running on the Render Free Tier, there will be an estimated startup time of 50 seconds.)
 - GUI created with [CustomTkinter](https://customtkinter.tomschimansky.com/)
 
+⚠️ The render instance will shut down automatically after 15 minutes of inactivity. In this case, all saved tasks will be automatically deleted.
+
 ## Project information
 
 - Duration of the Project (Beginnging - End): 20. December 2025 - 25. October 2025
