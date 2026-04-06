@@ -1,5 +1,5 @@
 # TaskAPI
-A Simple API I made using FastAPI in Python. (My first FastAPI project) 
+A simple API I made using FastAPI in Python. (My first FastAPI project) 
 
 <img width="1011" height="123" alt="Bildschirmfoto 2025-12-25 um 21 44 02" src="https://github.com/user-attachments/assets/8c2f815a-17ab-4886-92a5-34e678e20c3d" />
 
